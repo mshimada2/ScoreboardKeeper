@@ -43,7 +43,7 @@ int main()
          cout<<scoreboard[rows][columns];
          cout<<"|";
      }
-       cout<<" "<<endl;     
+       cout<<endl;     
 
    }
 
