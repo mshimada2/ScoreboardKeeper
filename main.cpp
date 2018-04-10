@@ -35,7 +35,7 @@ int main()
    for(int rows = 0; rows < scoreboard.size(); rows++)
    {
       scoreboard[rows].resize(periods);
-      cout<<"Player "<<rows + 1<<":";
+      cout<<"Player "<<rows + 1<<": ";
 
      for(int columns = 0; columns < scoreboard[rows].size(); columns++)
      {
